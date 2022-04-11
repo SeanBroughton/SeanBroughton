@@ -1,28 +1,23 @@
-### Hi there 👋
+## Hello Everyone! 👋
+## My name is Sean, and I am a Unity Developer creating 2D, 3D, and VR Unity Games!
+
+### What I Am Currently Working on 🎯:
+At the moment I am working on Unity 2D and studying more on Unity 3D, and VR. I am also working on 2D Game Art, Design, Sound Effects, and Music.
+Here is a Page to look at finished Unity Games I have created
+https://sharemygame.com/@SeanSwizzy
+
+### Interesting Facts About Me 💯:
+I am a Content Creator for Youtube, Instagram, and sharemygame.com. I create content under SeanSwizzy and DreamBACStudios, which is a Youtube Channel created by me and my buddies. And I do 2D Animation, currently working on creating full series with voice acting!
+
+I am also a Game Journalist doing Freelance work for Screenrant.com. You can find me under Screenrant Game Guides, Sean Broughton. https://screenrant.com/author/sean-broughton/
+
+### How To Reach Me 📣:
+My Email is seanbroughton03@gmail.com for business inquiries
+
 
 <!--
 **SeanBroughton/SeanBroughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-  Creating 2d Unity Games and looking for a Unity Developer Position
-
-- 🌱 I’m currently learning ...
-  Unity 2d, 3d, and VR
-
-- 👯 I’m looking to collaborate on ...
-  2D Unity Games and Unity Projects
-
-- 🤔 I’m looking for help with ...
-  2D Unity Games, and Animation
-
-- 💬 Ask me about ...
-  DreamBACStudios
-
-- 📫 How to reach me: ...
-  My Email is seanbroughton03@gmail.com for business inquiries
-
-- ⚡ Fun fact: ...
-  I am a Content Creator for Youtube, Instagram, and sharemygame.com
+ 
 -->
