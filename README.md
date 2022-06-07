@@ -8,6 +8,7 @@ https://sharemygame.com/@SeanSwizzy
 
 ### Interesting Facts About Me 💯:
 I am a Content Creator for Youtube, Instagram, and sharemygame.com. I create content under SeanSwizzy and DreamBACStudios, which is a Youtube Channel created by me and my buddies. And I do 2D Animation, currently working on creating a full series with voice acting!
+- Participated in the Gamedev.tv Game Jam 2022 and placed Top 100 out of 950 Submissions with the game "Inure" which placed 82nd
 
 I am also a Game Journalist doing Freelance work for Screenrant.com. You can find me under Screenrant Game Guides, Sean Broughton. https://screenrant.com/author/sean-broughton/
 
